@@ -1,2 +1,14 @@
-# yuva-aapda-mitra-dashboard
-yuva-aapda-mitra-dashboard  │── volunteer_database.xlsx │── district_tracker.xlsx │── monthly_progress_report.xlsx │── dashboard_mockup.pdf │── README.md
+# Yuva Aapda Mitra Dashboard
+
+This repository contains project monitoring and volunteer tracking system for Yuva Aapda Mitra Scheme.
+
+## Contents
+
+- Volunteer registration tracker
+- District performance tracker
+- Monthly reporting system
+- Progress dashboard
+
+## Objective
+
+To monitor implementation progress of disaster preparedness volunteer programme across districts.
